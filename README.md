@@ -7,7 +7,7 @@ The course was instructed by **Dr. Naser Mazini**.
 ## Contents
 - Assignments
 - Projects
-- Reports and Documentation (if any)
+- Reports and Documentation
 
 ## Language
 All course materials and source code in this repository are implemented in Python.
